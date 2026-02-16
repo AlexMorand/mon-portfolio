@@ -24,7 +24,8 @@ Salut ! Je suis **Alex Morand**, développeur web passionné basé à **Lyon**.
 
 ## Contact
 
-N'hésitez pas à me contacter via [Instagram](https://instagram.com/alex.morand.music) !
+N'hésitez pas à me contacter via [Instagram](https://instagram.com/alexmorand.guitare) !
 
 ---
 *"La musique adoucit les mœurs, mais le code adoucit les bugs."*
+
